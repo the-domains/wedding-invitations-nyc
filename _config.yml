@@ -1,0 +1,28 @@
+name: Wedding Invitations NYC
+favicon: null
+layout_spectrum: 0.05347597855143249
+typography_spectrum: 0.23310517007485032
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.32809309638105333
+  lightness: 0.056645812932401896
+  saturation: 0.08562984433956444
+  rhythmicContrast: 0.49644377967342734
+purpose: []
