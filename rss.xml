@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Wedding Invitations NYC]]></title>
-        <description><![CDATA[Wedding Invitations NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Wedding Invitations in NYC]]></title>
+        <description><![CDATA[Wedding Invitations in NYC]]></description>
+        <link>https://thegrid.ai/wedding-invitations-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:55:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 15:21:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wedding-invitations-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a058902-9dbf-498d-ab8a-0b82db397fb9.jpg">]]></description>
-            <link>undefinedb40f2c9e-f6b1-4983-bba8-8c7334953af7/index.html</link>
+            <title><![CDATA[Wedding Invitations in NYC]]></title>
+            <description><![CDATA[<article><h1>Wedding Invitations in NYC</h1><p> Elegant Wedding and Event Invitations boutique in NYC </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/890aa8d17ee0722c8a1823d4181fc2cf772805ea.jpg"></article>]]></description>
+            <link>https://thegrid.ai/wedding-invitations-nyc/b40f2c9e-f6b1-4983-bba8-8c7334953af7/index.html</link>
             <guid isPermaLink="false">b40f2c9e-f6b1-4983-bba8-8c7334953af7</guid>
-            <pubDate>Mon, 25 Jan 2016 19:54:49 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 15:21:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
